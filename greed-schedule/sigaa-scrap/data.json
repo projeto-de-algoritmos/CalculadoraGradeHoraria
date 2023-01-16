@@ -5,7 +5,16 @@
     "codigo": "FGA0003",
     "pre_requisitos": "FGA0147",
     "professor": "EDSON ALVES DA COSTA JUNIOR",
-    "horario": "46T23"
+    "horarios": {
+      "Quarta": {
+        "start-time": "2023-01-18 14:00:00 -0300",
+        "end-time": "2023-01-18 15:50:00 -0300"
+      },
+      "Sexta": {
+        "start-time": "2023-01-20 14:00:00 -0300",
+        "end-time": "2023-01-20 15:50:00 -0300"
+      }
+    }
   },
   {
     "id": 21,
@@ -13,7 +22,16 @@
     "codigo": "FGA0030",
     "pre_requisitos": "FGA0147",
     "professor": "JOHN LENON CARDOSO GARDENGHI",
-    "horario": "26T45"
+    "horarios": {
+      "Segunda": {
+        "start-time": "2023-01-16 16:00:00 -0300",
+        "end-time": "2023-01-16 17:50:00 -0300"
+      },
+      "Sexta": {
+        "start-time": "2023-01-20 16:00:00 -0300",
+        "end-time": "2023-01-20 17:50:00 -0300"
+      }
+    }
   },
   {
     "id": 56,
@@ -21,7 +39,16 @@
     "codigo": "FGA0060",
     "pre_requisitos": "FGA0137",
     "professor": "VANDOR ROBERTO VILARDI RISSOLI",
-    "horario": "35M12"
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 08:00:00 -0300",
+        "end-time": "2023-01-17 09:50:00 -0300"
+      },
+      "Quinta": {
+        "start-time": "2023-01-19 08:00:00 -0300",
+        "end-time": "2023-01-19 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 57,
@@ -29,7 +56,16 @@
     "codigo": "FGA0060",
     "pre_requisitos": "FGA0137",
     "professor": "GIOVANNI ALMEIDA SANTOS",
-    "horario": "46M12"
+    "horarios": {
+      "Quarta": {
+        "start-time": "2023-01-18 08:00:00 -0300",
+        "end-time": "2023-01-18 09:50:00 -0300"
+      },
+      "Sexta": {
+        "start-time": "2023-01-20 08:00:00 -0300",
+        "end-time": "2023-01-20 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 58,
@@ -37,7 +73,7 @@
     "codigo": "FGA0060",
     "pre_requisitos": "FGA0137",
     "professor": "GIOVANNI ALMEIDA SANTOS",
-    "horario": "7M1234"
+    "horarios": {}
   },
   {
     "id": 80,
@@ -45,7 +81,12 @@
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
     "professor": "CLAUDIA PATRICIA OCHOA DIAZ",
-    "horario": "4M5 4T1"
+    "horarios": {
+      "Quarta": {
+        "start-time": "2023-01-18 12:00:00 -0300",
+        "end-time": "2023-01-18 13:50:00 -0300"
+      }
+    }
   },
   {
     "id": 81,
@@ -53,7 +94,12 @@
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
     "professor": "ANDERSON JOSE COSTA SENA",
-    "horario": "4T23"
+    "horarios": {
+      "Quarta": {
+        "start-time": "2023-01-18 14:00:00 -0300",
+        "end-time": "2023-01-18 15:50:00 -0300"
+      }
+    }
   },
   {
     "id": 82,
@@ -61,7 +107,12 @@
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
     "professor": "ANDERSON JOSE COSTA SENA",
-    "horario": "4T45"
+    "horarios": {
+      "Quarta": {
+        "start-time": "2023-01-18 16:00:00 -0300",
+        "end-time": "2023-01-18 17:50:00 -0300"
+      }
+    }
   },
   {
     "id": 83,
@@ -69,7 +120,12 @@
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
     "professor": "ANDERSON JOSE COSTA SENA",
-    "horario": "5T23"
+    "horarios": {
+      "Quinta": {
+        "start-time": "2023-01-19 14:00:00 -0300",
+        "end-time": "2023-01-19 15:50:00 -0300"
+      }
+    }
   },
   {
     "id": 84,
@@ -77,7 +133,12 @@
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
     "professor": "DIOGO DE OLIVEIRA COSTA",
-    "horario": "6T23"
+    "horarios": {
+      "Sexta": {
+        "start-time": "2023-01-20 14:00:00 -0300",
+        "end-time": "2023-01-20 15:50:00 -0300"
+      }
+    }
   },
   {
     "id": 85,
@@ -85,7 +146,12 @@
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
     "professor": "HENRIQUE MARRA TAIRA MENEGAZ",
-    "horario": "3M12"
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 08:00:00 -0300",
+        "end-time": "2023-01-17 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 86,
@@ -93,7 +159,12 @@
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
     "professor": "HENRIQUE MARRA TAIRA MENEGAZ",
-    "horario": "3M34"
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 08:00:00 -0300",
+        "end-time": "2023-01-17 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 87,
@@ -101,7 +172,12 @@
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
     "professor": "DIOGO DE OLIVEIRA COSTA",
-    "horario": "5M34"
+    "horarios": {
+      "Quinta": {
+        "start-time": "2023-01-19 08:00:00 -0300",
+        "end-time": "2023-01-19 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 88,
@@ -109,7 +185,12 @@
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
     "professor": "GUILLERMO ALVAREZ BESTARD",
-    "horario": "6M12"
+    "horarios": {
+      "Sexta": {
+        "start-time": "2023-01-20 08:00:00 -0300",
+        "end-time": "2023-01-20 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 89,
@@ -117,7 +198,12 @@
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
     "professor": "HENRIQUE MARRA TAIRA MENEGAZ",
-    "horario": "2M12"
+    "horarios": {
+      "Segunda": {
+        "start-time": "2023-01-16 08:00:00 -0300",
+        "end-time": "2023-01-16 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 90,
@@ -125,7 +211,12 @@
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
     "professor": "HENRIQUE MARRA TAIRA MENEGAZ",
-    "horario": "2M34"
+    "horarios": {
+      "Segunda": {
+        "start-time": "2023-01-16 08:00:00 -0300",
+        "end-time": "2023-01-16 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 91,
@@ -133,7 +224,12 @@
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
     "professor": "DIOGO DE OLIVEIRA COSTA",
-    "horario": "6M34"
+    "horarios": {
+      "Sexta": {
+        "start-time": "2023-01-20 08:00:00 -0300",
+        "end-time": "2023-01-20 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 92,
@@ -141,7 +237,12 @@
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
     "professor": "CLAUDIA PATRICIA OCHOA DIAZ",
-    "horario": "6M5 6T1"
+    "horarios": {
+      "Sexta": {
+        "start-time": "2023-01-20 12:00:00 -0300",
+        "end-time": "2023-01-20 13:50:00 -0300"
+      }
+    }
   },
   {
     "id": 93,
@@ -149,7 +250,12 @@
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
     "professor": "ANDERSON JOSE COSTA SENA",
-    "horario": "3T23"
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 14:00:00 -0300",
+        "end-time": "2023-01-17 15:50:00 -0300"
+      }
+    }
   },
   {
     "id": 98,
@@ -157,7 +263,16 @@
     "codigo": "FGA0073",
     "pre_requisitos": "MAT0031",
     "professor": "RENATO VILELA LOPES",
-    "horario": "46M12"
+    "horarios": {
+      "Quarta": {
+        "start-time": "2023-01-18 08:00:00 -0300",
+        "end-time": "2023-01-18 09:50:00 -0300"
+      },
+      "Sexta": {
+        "start-time": "2023-01-20 08:00:00 -0300",
+        "end-time": "2023-01-20 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 99,
@@ -165,7 +280,16 @@
     "codigo": "FGA0073",
     "pre_requisitos": "MAT0031",
     "professor": "RENATO VILELA LOPES",
-    "horario": "46T23"
+    "horarios": {
+      "Quarta": {
+        "start-time": "2023-01-18 14:00:00 -0300",
+        "end-time": "2023-01-18 15:50:00 -0300"
+      },
+      "Sexta": {
+        "start-time": "2023-01-20 14:00:00 -0300",
+        "end-time": "2023-01-20 15:50:00 -0300"
+      }
+    }
   },
   {
     "id": 177,
@@ -173,7 +297,16 @@
     "codigo": "FGA0108",
     "pre_requisitos": "FGA0085  OU  FGA0159",
     "professor": "MATHEUS BERNARDINI DE SOUZA",
-    "horario": "2M5 2T1 6T23"
+    "horarios": {
+      "Segunda": {
+        "start-time": "2023-01-16 12:00:00 -0300",
+        "end-time": "2023-01-16 13:50:00 -0300"
+      },
+      "Sexta": {
+        "start-time": "2023-01-20 14:00:00 -0300",
+        "end-time": "2023-01-20 15:50:00 -0300"
+      }
+    }
   },
   {
     "id": 179,
@@ -181,7 +314,16 @@
     "codigo": "FGA0109",
     "pre_requisitos": "FGA0170",
     "professor": "RENATO CORAL SAMPAIO",
-    "horario": "35M34"
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 08:00:00 -0300",
+        "end-time": "2023-01-17 09:50:00 -0300"
+      },
+      "Quinta": {
+        "start-time": "2023-01-19 08:00:00 -0300",
+        "end-time": "2023-01-19 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 180,
@@ -189,7 +331,16 @@
     "codigo": "FGA0109",
     "pre_requisitos": "FGA0170",
     "professor": "RENATO CORAL SAMPAIO",
-    "horario": "35M5 35T1"
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 12:00:00 -0300",
+        "end-time": "2023-01-17 13:50:00 -0300"
+      },
+      "Quinta": {
+        "start-time": "2023-01-19 12:00:00 -0300",
+        "end-time": "2023-01-19 13:50:00 -0300"
+      }
+    }
   },
   {
     "id": 197,
@@ -197,7 +348,16 @@
     "codigo": "FGA0124",
     "pre_requisitos": "FGA0147",
     "professor": "MAURICIO SERRANO",
-    "horario": "26M34"
+    "horarios": {
+      "Segunda": {
+        "start-time": "2023-01-16 08:00:00 -0300",
+        "end-time": "2023-01-16 09:50:00 -0300"
+      },
+      "Sexta": {
+        "start-time": "2023-01-20 08:00:00 -0300",
+        "end-time": "2023-01-20 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 205,
@@ -205,7 +365,16 @@
     "codigo": "FGA0133",
     "pre_requisitos": "-",
     "professor": "RICARDO MATOS CHAIM",
-    "horario": "56M12"
+    "horarios": {
+      "Quinta": {
+        "start-time": "2023-01-19 08:00:00 -0300",
+        "end-time": "2023-01-19 09:50:00 -0300"
+      },
+      "Sexta": {
+        "start-time": "2023-01-20 08:00:00 -0300",
+        "end-time": "2023-01-20 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 206,
@@ -213,7 +382,16 @@
     "codigo": "FGA0133",
     "pre_requisitos": "-",
     "professor": "PAULA MEYER SOARES",
-    "horario": "35M34"
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 08:00:00 -0300",
+        "end-time": "2023-01-17 09:50:00 -0300"
+      },
+      "Quinta": {
+        "start-time": "2023-01-19 08:00:00 -0300",
+        "end-time": "2023-01-19 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 207,
@@ -221,7 +399,16 @@
     "codigo": "FGA0133",
     "pre_requisitos": "-",
     "professor": "GLAUCENY CIRNE DE MEDEIROS",
-    "horario": "46T45"
+    "horarios": {
+      "Quarta": {
+        "start-time": "2023-01-18 16:00:00 -0300",
+        "end-time": "2023-01-18 17:50:00 -0300"
+      },
+      "Sexta": {
+        "start-time": "2023-01-20 16:00:00 -0300",
+        "end-time": "2023-01-20 17:50:00 -0300"
+      }
+    }
   },
   {
     "id": 212,
@@ -229,7 +416,16 @@
     "codigo": "FGA0137",
     "pre_requisitos": "FGA0159  OU  FGA0108",
     "professor": "MAURICIO SERRANO",
-    "horario": "26M12"
+    "horarios": {
+      "Segunda": {
+        "start-time": "2023-01-16 08:00:00 -0300",
+        "end-time": "2023-01-16 09:50:00 -0300"
+      },
+      "Sexta": {
+        "start-time": "2023-01-20 08:00:00 -0300",
+        "end-time": "2023-01-20 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 213,
@@ -237,7 +433,16 @@
     "codigo": "FGA0137",
     "pre_requisitos": "FGA0159  OU  FGA0108",
     "professor": "VANDOR ROBERTO VILARDI RISSOLI",
-    "horario": "35T23"
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 14:00:00 -0300",
+        "end-time": "2023-01-17 15:50:00 -0300"
+      },
+      "Quinta": {
+        "start-time": "2023-01-19 14:00:00 -0300",
+        "end-time": "2023-01-19 15:50:00 -0300"
+      }
+    }
   },
   {
     "id": 215,
@@ -245,7 +450,16 @@
     "codigo": "FGA0138",
     "pre_requisitos": "FGA0158",
     "professor": "GEORGE MARSICANO CORREA",
-    "horario": "35T45"
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 16:00:00 -0300",
+        "end-time": "2023-01-17 17:50:00 -0300"
+      },
+      "Quinta": {
+        "start-time": "2023-01-19 16:00:00 -0300",
+        "end-time": "2023-01-19 17:50:00 -0300"
+      }
+    }
   },
   {
     "id": 216,
@@ -253,7 +467,16 @@
     "codigo": "FGA0138",
     "pre_requisitos": "FGA0158",
     "professor": "HILMER RODRIGUES NERI",
-    "horario": "35T45"
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 16:00:00 -0300",
+        "end-time": "2023-01-17 17:50:00 -0300"
+      },
+      "Quinta": {
+        "start-time": "2023-01-19 16:00:00 -0300",
+        "end-time": "2023-01-19 17:50:00 -0300"
+      }
+    }
   },
   {
     "id": 217,
@@ -261,7 +484,16 @@
     "codigo": "FGA0138",
     "pre_requisitos": "FGA0158",
     "professor": "CARLA SILVA ROCHA AGUIAR",
-    "horario": "35M34"
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 08:00:00 -0300",
+        "end-time": "2023-01-17 09:50:00 -0300"
+      },
+      "Quinta": {
+        "start-time": "2023-01-19 08:00:00 -0300",
+        "end-time": "2023-01-19 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 251,
@@ -269,7 +501,16 @@
     "codigo": "FGA0158",
     "pre_requisitos": "CIC0004  OU  CIC0007",
     "professor": "FABIANA FREITAS MENDES",
-    "horario": "24T45"
+    "horarios": {
+      "Segunda": {
+        "start-time": "2023-01-16 16:00:00 -0300",
+        "end-time": "2023-01-16 17:50:00 -0300"
+      },
+      "Quarta": {
+        "start-time": "2023-01-18 16:00:00 -0300",
+        "end-time": "2023-01-18 17:50:00 -0300"
+      }
+    }
   },
   {
     "id": 252,
@@ -277,7 +518,16 @@
     "codigo": "FGA0158",
     "pre_requisitos": "CIC0004  OU  CIC0007",
     "professor": "ANDRE LUIZ PERON MARTINS LANNA",
-    "horario": "24T23"
+    "horarios": {
+      "Segunda": {
+        "start-time": "2023-01-16 14:00:00 -0300",
+        "end-time": "2023-01-16 15:50:00 -0300"
+      },
+      "Quarta": {
+        "start-time": "2023-01-18 14:00:00 -0300",
+        "end-time": "2023-01-18 15:50:00 -0300"
+      }
+    }
   },
   {
     "id": 253,
@@ -285,7 +535,16 @@
     "codigo": "FGA0158",
     "pre_requisitos": "CIC0004  OU  CIC0007",
     "professor": "FABIANA FREITAS MENDES",
-    "horario": "24M12"
+    "horarios": {
+      "Segunda": {
+        "start-time": "2023-01-16 08:00:00 -0300",
+        "end-time": "2023-01-16 09:50:00 -0300"
+      },
+      "Quarta": {
+        "start-time": "2023-01-18 08:00:00 -0300",
+        "end-time": "2023-01-18 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 254,
@@ -293,7 +552,16 @@
     "codigo": "FGA0158",
     "pre_requisitos": "CIC0004  OU  CIC0007",
     "professor": "LUIS FILOMENO DE JESUS FERNANDES",
-    "horario": "46T23"
+    "horarios": {
+      "Quarta": {
+        "start-time": "2023-01-18 14:00:00 -0300",
+        "end-time": "2023-01-18 15:50:00 -0300"
+      },
+      "Sexta": {
+        "start-time": "2023-01-20 14:00:00 -0300",
+        "end-time": "2023-01-20 15:50:00 -0300"
+      }
+    }
   },
   {
     "id": 255,
@@ -301,7 +569,7 @@
     "codigo": "FGA0158",
     "pre_requisitos": "CIC0004  OU  CIC0007",
     "professor": "ELAINE VENSON",
-    "horario": "7M1234"
+    "horarios": {}
   },
   {
     "id": 256,
@@ -309,7 +577,7 @@
     "codigo": "FGA0158",
     "pre_requisitos": "CIC0004  OU  CIC0007",
     "professor": "REJANE MARIA DA COSTA FIGUEIREDO",
-    "horario": "7M1234"
+    "horarios": {}
   },
   {
     "id": 258,
@@ -317,7 +585,16 @@
     "codigo": "FGA0160",
     "pre_requisitos": "MAT0026",
     "professor": "LUCIANO EMIDIO NEVES DA FONSECA",
-    "horario": "24T45"
+    "horarios": {
+      "Segunda": {
+        "start-time": "2023-01-16 16:00:00 -0300",
+        "end-time": "2023-01-16 17:50:00 -0300"
+      },
+      "Quarta": {
+        "start-time": "2023-01-18 16:00:00 -0300",
+        "end-time": "2023-01-18 17:50:00 -0300"
+      }
+    }
   },
   {
     "id": 259,
@@ -325,7 +602,16 @@
     "codigo": "FGA0160",
     "pre_requisitos": "MAT0026",
     "professor": "RODRIGO ANDRES MIRANDA CERDA",
-    "horario": "46T45"
+    "horarios": {
+      "Quarta": {
+        "start-time": "2023-01-18 16:00:00 -0300",
+        "end-time": "2023-01-18 17:50:00 -0300"
+      },
+      "Sexta": {
+        "start-time": "2023-01-20 16:00:00 -0300",
+        "end-time": "2023-01-20 17:50:00 -0300"
+      }
+    }
   },
   {
     "id": 260,
@@ -333,7 +619,16 @@
     "codigo": "FGA0160",
     "pre_requisitos": "MAT0026",
     "professor": "LINDOMAR BOMFIM DE CARVALHO DE JESUS",
-    "horario": "24M12"
+    "horarios": {
+      "Segunda": {
+        "start-time": "2023-01-16 08:00:00 -0300",
+        "end-time": "2023-01-16 09:50:00 -0300"
+      },
+      "Quarta": {
+        "start-time": "2023-01-18 08:00:00 -0300",
+        "end-time": "2023-01-18 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 270,
@@ -341,7 +636,16 @@
     "codigo": "FGA0164",
     "pre_requisitos": "-",
     "professor": "SANDRA MARIA FALEIROS LIMA",
-    "horario": "46T23"
+    "horarios": {
+      "Quarta": {
+        "start-time": "2023-01-18 14:00:00 -0300",
+        "end-time": "2023-01-18 15:50:00 -0300"
+      },
+      "Sexta": {
+        "start-time": "2023-01-20 14:00:00 -0300",
+        "end-time": "2023-01-20 15:50:00 -0300"
+      }
+    }
   },
   {
     "id": 271,
@@ -349,7 +653,16 @@
     "codigo": "FGA0164",
     "pre_requisitos": "-",
     "professor": "SANDRA MARIA FALEIROS LIMA",
-    "horario": "46M5 46T1"
+    "horarios": {
+      "Quarta": {
+        "start-time": "2023-01-18 12:00:00 -0300",
+        "end-time": "2023-01-18 13:50:00 -0300"
+      },
+      "Sexta": {
+        "start-time": "2023-01-20 12:00:00 -0300",
+        "end-time": "2023-01-20 13:50:00 -0300"
+      }
+    }
   },
   {
     "id": 272,
@@ -357,7 +670,16 @@
     "codigo": "FGA0164",
     "pre_requisitos": "-",
     "professor": "VANESSA MARIA DE CASTRO",
-    "horario": "35T23"
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 14:00:00 -0300",
+        "end-time": "2023-01-17 15:50:00 -0300"
+      },
+      "Quinta": {
+        "start-time": "2023-01-19 14:00:00 -0300",
+        "end-time": "2023-01-19 15:50:00 -0300"
+      }
+    }
   },
   {
     "id": 273,
@@ -365,7 +687,16 @@
     "codigo": "FGA0164",
     "pre_requisitos": "-",
     "professor": "VANESSA MARIA DE CASTRO",
-    "horario": "35T45"
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 16:00:00 -0300",
+        "end-time": "2023-01-17 17:50:00 -0300"
+      },
+      "Quinta": {
+        "start-time": "2023-01-19 16:00:00 -0300",
+        "end-time": "2023-01-19 17:50:00 -0300"
+      }
+    }
   },
   {
     "id": 274,
@@ -373,7 +704,16 @@
     "codigo": "FGA0164",
     "pre_requisitos": "-",
     "professor": "SANDRA MARIA FALEIROS LIMA",
-    "horario": "46T45"
+    "horarios": {
+      "Quarta": {
+        "start-time": "2023-01-18 16:00:00 -0300",
+        "end-time": "2023-01-18 17:50:00 -0300"
+      },
+      "Sexta": {
+        "start-time": "2023-01-20 16:00:00 -0300",
+        "end-time": "2023-01-20 17:50:00 -0300"
+      }
+    }
   },
   {
     "id": 289,
@@ -381,7 +721,16 @@
     "codigo": "FGA0170",
     "pre_requisitos": "FGA0182  OU  FGA0096  OU  FGA0142",
     "professor": "TIAGO ALVES DA FONSECA",
-    "horario": "26M12"
+    "horarios": {
+      "Segunda": {
+        "start-time": "2023-01-16 08:00:00 -0300",
+        "end-time": "2023-01-16 09:50:00 -0300"
+      },
+      "Sexta": {
+        "start-time": "2023-01-20 08:00:00 -0300",
+        "end-time": "2023-01-20 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 291,
@@ -389,7 +738,16 @@
     "codigo": "FGA0172",
     "pre_requisitos": "FGA0138",
     "professor": "GEORGE MARSICANO CORREA",
-    "horario": "35T23"
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 14:00:00 -0300",
+        "end-time": "2023-01-17 15:50:00 -0300"
+      },
+      "Quinta": {
+        "start-time": "2023-01-19 14:00:00 -0300",
+        "end-time": "2023-01-19 15:50:00 -0300"
+      }
+    }
   },
   {
     "id": 292,
@@ -397,7 +755,16 @@
     "codigo": "FGA0172",
     "pre_requisitos": "FGA0138",
     "professor": "ANDRE BARROS DE SALES",
-    "horario": "35M34"
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 08:00:00 -0300",
+        "end-time": "2023-01-17 09:50:00 -0300"
+      },
+      "Quinta": {
+        "start-time": "2023-01-19 08:00:00 -0300",
+        "end-time": "2023-01-19 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 294,
@@ -405,7 +772,16 @@
     "codigo": "FGA0173",
     "pre_requisitos": "FGA0138",
     "professor": "SERGIO ANTONIO ANDRADE DE FREITAS",
-    "horario": "24M34"
+    "horarios": {
+      "Segunda": {
+        "start-time": "2023-01-16 08:00:00 -0300",
+        "end-time": "2023-01-16 09:50:00 -0300"
+      },
+      "Quarta": {
+        "start-time": "2023-01-18 08:00:00 -0300",
+        "end-time": "2023-01-18 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 295,
@@ -413,7 +789,16 @@
     "codigo": "FGA0173",
     "pre_requisitos": "FGA0138",
     "professor": "ANDRE BARROS DE SALES",
-    "horario": "35M12"
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 08:00:00 -0300",
+        "end-time": "2023-01-17 09:50:00 -0300"
+      },
+      "Quinta": {
+        "start-time": "2023-01-19 08:00:00 -0300",
+        "end-time": "2023-01-19 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 304,
@@ -421,7 +806,16 @@
     "codigo": "FGA0184",
     "pre_requisitos": "FGA0133",
     "professor": "REJANE MARIA DA COSTA FIGUEIREDO",
-    "horario": "35T23"
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 14:00:00 -0300",
+        "end-time": "2023-01-17 15:50:00 -0300"
+      },
+      "Quinta": {
+        "start-time": "2023-01-19 14:00:00 -0300",
+        "end-time": "2023-01-19 15:50:00 -0300"
+      }
+    }
   },
   {
     "id": 305,
@@ -429,7 +823,16 @@
     "codigo": "FGA0184",
     "pre_requisitos": "FGA0133",
     "professor": "MARIO DE OLIVEIRA ANDRADE",
-    "horario": "35T45"
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 16:00:00 -0300",
+        "end-time": "2023-01-17 17:50:00 -0300"
+      },
+      "Quinta": {
+        "start-time": "2023-01-19 16:00:00 -0300",
+        "end-time": "2023-01-19 17:50:00 -0300"
+      }
+    }
   },
   {
     "id": 330,
@@ -437,7 +840,16 @@
     "codigo": "FGA0206",
     "pre_requisitos": "FGA0242  OU  FGA0171",
     "professor": "HILMER RODRIGUES NERI",
-    "horario": "35T23"
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 14:00:00 -0300",
+        "end-time": "2023-01-17 15:50:00 -0300"
+      },
+      "Quinta": {
+        "start-time": "2023-01-19 14:00:00 -0300",
+        "end-time": "2023-01-19 15:50:00 -0300"
+      }
+    }
   },
   {
     "id": 332,
@@ -445,7 +857,16 @@
     "codigo": "FGA0208",
     "pre_requisitos": "FGA0172",
     "professor": "MILENE SERRANO",
-    "horario": "26M12"
+    "horarios": {
+      "Segunda": {
+        "start-time": "2023-01-16 08:00:00 -0300",
+        "end-time": "2023-01-16 09:50:00 -0300"
+      },
+      "Sexta": {
+        "start-time": "2023-01-20 08:00:00 -0300",
+        "end-time": "2023-01-20 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 334,
@@ -453,7 +874,16 @@
     "codigo": "FGA0210",
     "pre_requisitos": "FGA0158 E FGA0003",
     "professor": "MILENE SERRANO",
-    "horario": "26M34"
+    "horarios": {
+      "Segunda": {
+        "start-time": "2023-01-16 08:00:00 -0300",
+        "end-time": "2023-01-16 09:50:00 -0300"
+      },
+      "Sexta": {
+        "start-time": "2023-01-20 08:00:00 -0300",
+        "end-time": "2023-01-20 09:50:00 -0300"
+      }
+    }
   },
   {
     "id": 336,
@@ -461,7 +891,16 @@
     "codigo": "FGA0211",
     "pre_requisitos": "FGA0170",
     "professor": "FERNANDO WILLIAM CRUZ",
-    "horario": "24T45"
+    "horarios": {
+      "Segunda": {
+        "start-time": "2023-01-16 16:00:00 -0300",
+        "end-time": "2023-01-16 17:50:00 -0300"
+      },
+      "Quarta": {
+        "start-time": "2023-01-18 16:00:00 -0300",
+        "end-time": "2023-01-18 17:50:00 -0300"
+      }
+    }
   },
   {
     "id": 361,
@@ -469,7 +908,16 @@
     "codigo": "FGA0238",
     "pre_requisitos": "FGA0138",
     "professor": "ELAINE VENSON",
-    "horario": "24T45"
+    "horarios": {
+      "Segunda": {
+        "start-time": "2023-01-16 16:00:00 -0300",
+        "end-time": "2023-01-16 17:50:00 -0300"
+      },
+      "Quarta": {
+        "start-time": "2023-01-18 16:00:00 -0300",
+        "end-time": "2023-01-18 17:50:00 -0300"
+      }
+    }
   },
   {
     "id": 362,
@@ -477,7 +925,16 @@
     "codigo": "FGA0238",
     "pre_requisitos": "FGA0138",
     "professor": "ELAINE VENSON",
-    "horario": "24T23"
+    "horarios": {
+      "Segunda": {
+        "start-time": "2023-01-16 14:00:00 -0300",
+        "end-time": "2023-01-16 15:50:00 -0300"
+      },
+      "Quarta": {
+        "start-time": "2023-01-18 14:00:00 -0300",
+        "end-time": "2023-01-18 15:50:00 -0300"
+      }
+    }
   },
   {
     "id": 364,
@@ -485,7 +942,16 @@
     "codigo": "FGA0240",
     "pre_requisitos": "FGA0238",
     "professor": "CARLA SILVA ROCHA AGUIAR",
-    "horario": "35T45"
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 16:00:00 -0300",
+        "end-time": "2023-01-17 17:50:00 -0300"
+      },
+      "Quinta": {
+        "start-time": "2023-01-19 16:00:00 -0300",
+        "end-time": "2023-01-19 17:50:00 -0300"
+      }
+    }
   },
   {
     "id": 365,
@@ -493,7 +959,16 @@
     "codigo": "FGA0240",
     "pre_requisitos": "FGA0238",
     "professor": "RENATO CORAL SAMPAIO",
-    "horario": "35T45"
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 16:00:00 -0300",
+        "end-time": "2023-01-17 17:50:00 -0300"
+      },
+      "Quinta": {
+        "start-time": "2023-01-19 16:00:00 -0300",
+        "end-time": "2023-01-19 17:50:00 -0300"
+      }
+    }
   },
   {
     "id": 367,
@@ -501,7 +976,16 @@
     "codigo": "FGA0242",
     "pre_requisitos": "FGA0208 E FGA0238",
     "professor": "ANDRE LUIZ PERON MARTINS LANNA",
-    "horario": "24T45"
+    "horarios": {
+      "Segunda": {
+        "start-time": "2023-01-16 16:00:00 -0300",
+        "end-time": "2023-01-16 17:50:00 -0300"
+      },
+      "Quarta": {
+        "start-time": "2023-01-18 16:00:00 -0300",
+        "end-time": "2023-01-18 17:50:00 -0300"
+      }
+    }
   },
   {
     "id": 368,
@@ -509,7 +993,16 @@
     "codigo": "FGA0242",
     "pre_requisitos": "FGA0208 E FGA0238",
     "professor": "ANDRE LUIZ PERON MARTINS LANNA",
-    "horario": "24M5 24T1"
+    "horarios": {
+      "Segunda": {
+        "start-time": "2023-01-16 12:00:00 -0300",
+        "end-time": "2023-01-16 13:50:00 -0300"
+      },
+      "Quarta": {
+        "start-time": "2023-01-18 12:00:00 -0300",
+        "end-time": "2023-01-18 13:50:00 -0300"
+      }
+    }
   },
   {
     "id": 370,
@@ -517,7 +1010,16 @@
     "codigo": "FGA0244",
     "pre_requisitos": "FGA0211 E FGA0030",
     "professor": "FERNANDO WILLIAM CRUZ",
-    "horario": "24T23"
+    "horarios": {
+      "Segunda": {
+        "start-time": "2023-01-16 14:00:00 -0300",
+        "end-time": "2023-01-16 15:50:00 -0300"
+      },
+      "Quarta": {
+        "start-time": "2023-01-18 14:00:00 -0300",
+        "end-time": "2023-01-18 15:50:00 -0300"
+      }
+    }
   },
   {
     "id": 407,
@@ -525,7 +1027,16 @@
     "codigo": "FGA0278",
     "pre_requisitos": "FGA0184 E FGA0173",
     "professor": "RICARDO AJAX DIAS KOSLOSKI",
-    "horario": "35T6 35N1"
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 18:00:00 -0300",
+        "end-time": "2023-01-17 19:50:00 -0300"
+      },
+      "Quinta": {
+        "start-time": "2023-01-19 18:00:00 -0300",
+        "end-time": "2023-01-19 19:50:00 -0300"
+      }
+    }
   },
   {
     "id": 408,
@@ -533,6 +1044,15 @@
     "codigo": "FGA0278",
     "pre_requisitos": "FGA0184 E FGA0173",
     "professor": "CRISTIANE SOARES RAMOS",
-    "horario": "35M34"
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 08:00:00 -0300",
+        "end-time": "2023-01-17 09:50:00 -0300"
+      },
+      "Quinta": {
+        "start-time": "2023-01-19 08:00:00 -0300",
+        "end-time": "2023-01-19 09:50:00 -0300"
+      }
+    }
   }
 ]
