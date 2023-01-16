@@ -1,0 +1,538 @@
+[
+  {
+    "id": 2,
+    "nome": "COMPILADORES 1",
+    "codigo": "FGA0003",
+    "pre_requisitos": "FGA0147",
+    "professor": "EDSON ALVES DA COSTA JUNIOR",
+    "horario": "46T23"
+  },
+  {
+    "id": 21,
+    "nome": "ESTRUTURAS DE DADOS 2",
+    "codigo": "FGA0030",
+    "pre_requisitos": "FGA0147",
+    "professor": "JOHN LENON CARDOSO GARDENGHI",
+    "horario": "26T45"
+  },
+  {
+    "id": 56,
+    "nome": "SISTEMAS DE BANCO DE DADOS 2",
+    "codigo": "FGA0060",
+    "pre_requisitos": "FGA0137",
+    "professor": "VANDOR ROBERTO VILARDI RISSOLI",
+    "horario": "35M12"
+  },
+  {
+    "id": 57,
+    "nome": "SISTEMAS DE BANCO DE DADOS 2",
+    "codigo": "FGA0060",
+    "pre_requisitos": "FGA0137",
+    "professor": "GIOVANNI ALMEIDA SANTOS",
+    "horario": "46M12"
+  },
+  {
+    "id": 58,
+    "nome": "SISTEMAS DE BANCO DE DADOS 2",
+    "codigo": "FGA0060",
+    "pre_requisitos": "FGA0137",
+    "professor": "GIOVANNI ALMEIDA SANTOS",
+    "horario": "7M1234"
+  },
+  {
+    "id": 80,
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "codigo": "FGA0071",
+    "pre_requisitos": "MAT0031",
+    "professor": "CLAUDIA PATRICIA OCHOA DIAZ",
+    "horario": "4M5 4T1"
+  },
+  {
+    "id": 81,
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "codigo": "FGA0071",
+    "pre_requisitos": "MAT0031",
+    "professor": "ANDERSON JOSE COSTA SENA",
+    "horario": "4T23"
+  },
+  {
+    "id": 82,
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "codigo": "FGA0071",
+    "pre_requisitos": "MAT0031",
+    "professor": "ANDERSON JOSE COSTA SENA",
+    "horario": "4T45"
+  },
+  {
+    "id": 83,
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "codigo": "FGA0071",
+    "pre_requisitos": "MAT0031",
+    "professor": "ANDERSON JOSE COSTA SENA",
+    "horario": "5T23"
+  },
+  {
+    "id": 84,
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "codigo": "FGA0071",
+    "pre_requisitos": "MAT0031",
+    "professor": "DIOGO DE OLIVEIRA COSTA",
+    "horario": "6T23"
+  },
+  {
+    "id": 85,
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "codigo": "FGA0071",
+    "pre_requisitos": "MAT0031",
+    "professor": "HENRIQUE MARRA TAIRA MENEGAZ",
+    "horario": "3M12"
+  },
+  {
+    "id": 86,
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "codigo": "FGA0071",
+    "pre_requisitos": "MAT0031",
+    "professor": "HENRIQUE MARRA TAIRA MENEGAZ",
+    "horario": "3M34"
+  },
+  {
+    "id": 87,
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "codigo": "FGA0071",
+    "pre_requisitos": "MAT0031",
+    "professor": "DIOGO DE OLIVEIRA COSTA",
+    "horario": "5M34"
+  },
+  {
+    "id": 88,
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "codigo": "FGA0071",
+    "pre_requisitos": "MAT0031",
+    "professor": "GUILLERMO ALVAREZ BESTARD",
+    "horario": "6M12"
+  },
+  {
+    "id": 89,
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "codigo": "FGA0071",
+    "pre_requisitos": "MAT0031",
+    "professor": "HENRIQUE MARRA TAIRA MENEGAZ",
+    "horario": "2M12"
+  },
+  {
+    "id": 90,
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "codigo": "FGA0071",
+    "pre_requisitos": "MAT0031",
+    "professor": "HENRIQUE MARRA TAIRA MENEGAZ",
+    "horario": "2M34"
+  },
+  {
+    "id": 91,
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "codigo": "FGA0071",
+    "pre_requisitos": "MAT0031",
+    "professor": "DIOGO DE OLIVEIRA COSTA",
+    "horario": "6M34"
+  },
+  {
+    "id": 92,
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "codigo": "FGA0071",
+    "pre_requisitos": "MAT0031",
+    "professor": "CLAUDIA PATRICIA OCHOA DIAZ",
+    "horario": "6M5 6T1"
+  },
+  {
+    "id": 93,
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "codigo": "FGA0071",
+    "pre_requisitos": "MAT0031",
+    "professor": "ANDERSON JOSE COSTA SENA",
+    "horario": "3T23"
+  },
+  {
+    "id": 98,
+    "nome": "TEORIA DE ELETRÔNICA DIGITAL 1",
+    "codigo": "FGA0073",
+    "pre_requisitos": "MAT0031",
+    "professor": "RENATO VILELA LOPES",
+    "horario": "46M12"
+  },
+  {
+    "id": 99,
+    "nome": "TEORIA DE ELETRÔNICA DIGITAL 1",
+    "codigo": "FGA0073",
+    "pre_requisitos": "MAT0031",
+    "professor": "RENATO VILELA LOPES",
+    "horario": "46T23"
+  },
+  {
+    "id": 177,
+    "nome": "MATEMÁTICA DISCRETA 2",
+    "codigo": "FGA0108",
+    "pre_requisitos": "FGA0085  OU  FGA0159",
+    "professor": "MATHEUS BERNARDINI DE SOUZA",
+    "horario": "2M5 2T1 6T23"
+  },
+  {
+    "id": 179,
+    "nome": "FUNDAMENTOS DE SISTEMAS EMBARCADOS",
+    "codigo": "FGA0109",
+    "pre_requisitos": "FGA0170",
+    "professor": "RENATO CORAL SAMPAIO",
+    "horario": "35M34"
+  },
+  {
+    "id": 180,
+    "nome": "FUNDAMENTOS DE SISTEMAS EMBARCADOS",
+    "codigo": "FGA0109",
+    "pre_requisitos": "FGA0170",
+    "professor": "RENATO CORAL SAMPAIO",
+    "horario": "35M5 35T1"
+  },
+  {
+    "id": 197,
+    "nome": "PROJETO DE ALGORITMOS",
+    "codigo": "FGA0124",
+    "pre_requisitos": "FGA0147",
+    "professor": "MAURICIO SERRANO",
+    "horario": "26M34"
+  },
+  {
+    "id": 205,
+    "nome": "ENGENHARIA ECONÔMICA",
+    "codigo": "FGA0133",
+    "pre_requisitos": "-",
+    "professor": "RICARDO MATOS CHAIM",
+    "horario": "56M12"
+  },
+  {
+    "id": 206,
+    "nome": "ENGENHARIA ECONÔMICA",
+    "codigo": "FGA0133",
+    "pre_requisitos": "-",
+    "professor": "PAULA MEYER SOARES",
+    "horario": "35M34"
+  },
+  {
+    "id": 207,
+    "nome": "ENGENHARIA ECONÔMICA",
+    "codigo": "FGA0133",
+    "pre_requisitos": "-",
+    "professor": "GLAUCENY CIRNE DE MEDEIROS",
+    "horario": "46T45"
+  },
+  {
+    "id": 212,
+    "nome": "SISTEMAS DE BANCO DE DADOS 1",
+    "codigo": "FGA0137",
+    "pre_requisitos": "FGA0159  OU  FGA0108",
+    "professor": "MAURICIO SERRANO",
+    "horario": "26M12"
+  },
+  {
+    "id": 213,
+    "nome": "SISTEMAS DE BANCO DE DADOS 1",
+    "codigo": "FGA0137",
+    "pre_requisitos": "FGA0159  OU  FGA0108",
+    "professor": "VANDOR ROBERTO VILARDI RISSOLI",
+    "horario": "35T23"
+  },
+  {
+    "id": 215,
+    "nome": "MÉTODOS DE DESENVOLVIMENTO DE SOFTWARE",
+    "codigo": "FGA0138",
+    "pre_requisitos": "FGA0158",
+    "professor": "GEORGE MARSICANO CORREA",
+    "horario": "35T45"
+  },
+  {
+    "id": 216,
+    "nome": "MÉTODOS DE DESENVOLVIMENTO DE SOFTWARE",
+    "codigo": "FGA0138",
+    "pre_requisitos": "FGA0158",
+    "professor": "HILMER RODRIGUES NERI",
+    "horario": "35T45"
+  },
+  {
+    "id": 217,
+    "nome": "MÉTODOS DE DESENVOLVIMENTO DE SOFTWARE",
+    "codigo": "FGA0138",
+    "pre_requisitos": "FGA0158",
+    "professor": "CARLA SILVA ROCHA AGUIAR",
+    "horario": "35M34"
+  },
+  {
+    "id": 251,
+    "nome": "ORIENTAÇÃO A OBJETOS",
+    "codigo": "FGA0158",
+    "pre_requisitos": "CIC0004  OU  CIC0007",
+    "professor": "FABIANA FREITAS MENDES",
+    "horario": "24T45"
+  },
+  {
+    "id": 252,
+    "nome": "ORIENTAÇÃO A OBJETOS",
+    "codigo": "FGA0158",
+    "pre_requisitos": "CIC0004  OU  CIC0007",
+    "professor": "ANDRE LUIZ PERON MARTINS LANNA",
+    "horario": "24T23"
+  },
+  {
+    "id": 253,
+    "nome": "ORIENTAÇÃO A OBJETOS",
+    "codigo": "FGA0158",
+    "pre_requisitos": "CIC0004  OU  CIC0007",
+    "professor": "FABIANA FREITAS MENDES",
+    "horario": "24M12"
+  },
+  {
+    "id": 254,
+    "nome": "ORIENTAÇÃO A OBJETOS",
+    "codigo": "FGA0158",
+    "pre_requisitos": "CIC0004  OU  CIC0007",
+    "professor": "LUIS FILOMENO DE JESUS FERNANDES",
+    "horario": "46T23"
+  },
+  {
+    "id": 255,
+    "nome": "ORIENTAÇÃO A OBJETOS",
+    "codigo": "FGA0158",
+    "pre_requisitos": "CIC0004  OU  CIC0007",
+    "professor": "ELAINE VENSON",
+    "horario": "7M1234"
+  },
+  {
+    "id": 256,
+    "nome": "ORIENTAÇÃO A OBJETOS",
+    "codigo": "FGA0158",
+    "pre_requisitos": "CIC0004  OU  CIC0007",
+    "professor": "REJANE MARIA DA COSTA FIGUEIREDO",
+    "horario": "7M1234"
+  },
+  {
+    "id": 258,
+    "nome": "MÉTODOS NUMÉRICOS PARA ENGENHARIA",
+    "codigo": "FGA0160",
+    "pre_requisitos": "MAT0026",
+    "professor": "LUCIANO EMIDIO NEVES DA FONSECA",
+    "horario": "24T45"
+  },
+  {
+    "id": 259,
+    "nome": "MÉTODOS NUMÉRICOS PARA ENGENHARIA",
+    "codigo": "FGA0160",
+    "pre_requisitos": "MAT0026",
+    "professor": "RODRIGO ANDRES MIRANDA CERDA",
+    "horario": "46T45"
+  },
+  {
+    "id": 260,
+    "nome": "MÉTODOS NUMÉRICOS PARA ENGENHARIA",
+    "codigo": "FGA0160",
+    "pre_requisitos": "MAT0026",
+    "professor": "LINDOMAR BOMFIM DE CARVALHO DE JESUS",
+    "horario": "24M12"
+  },
+  {
+    "id": 270,
+    "nome": "HUMANIDADES E CIDADANIA",
+    "codigo": "FGA0164",
+    "pre_requisitos": "-",
+    "professor": "SANDRA MARIA FALEIROS LIMA",
+    "horario": "46T23"
+  },
+  {
+    "id": 271,
+    "nome": "HUMANIDADES E CIDADANIA",
+    "codigo": "FGA0164",
+    "pre_requisitos": "-",
+    "professor": "SANDRA MARIA FALEIROS LIMA",
+    "horario": "46M5 46T1"
+  },
+  {
+    "id": 272,
+    "nome": "HUMANIDADES E CIDADANIA",
+    "codigo": "FGA0164",
+    "pre_requisitos": "-",
+    "professor": "VANESSA MARIA DE CASTRO",
+    "horario": "35T23"
+  },
+  {
+    "id": 273,
+    "nome": "HUMANIDADES E CIDADANIA",
+    "codigo": "FGA0164",
+    "pre_requisitos": "-",
+    "professor": "VANESSA MARIA DE CASTRO",
+    "horario": "35T45"
+  },
+  {
+    "id": 274,
+    "nome": "HUMANIDADES E CIDADANIA",
+    "codigo": "FGA0164",
+    "pre_requisitos": "-",
+    "professor": "SANDRA MARIA FALEIROS LIMA",
+    "horario": "46T45"
+  },
+  {
+    "id": 289,
+    "nome": "FUNDAMENTOS DE SISTEMAS OPERACIONAIS",
+    "codigo": "FGA0170",
+    "pre_requisitos": "FGA0182  OU  FGA0096  OU  FGA0142",
+    "professor": "TIAGO ALVES DA FONSECA",
+    "horario": "26M12"
+  },
+  {
+    "id": 291,
+    "nome": "REQUISITOS DE SOFTWARE",
+    "codigo": "FGA0172",
+    "pre_requisitos": "FGA0138",
+    "professor": "GEORGE MARSICANO CORREA",
+    "horario": "35T23"
+  },
+  {
+    "id": 292,
+    "nome": "REQUISITOS DE SOFTWARE",
+    "codigo": "FGA0172",
+    "pre_requisitos": "FGA0138",
+    "professor": "ANDRE BARROS DE SALES",
+    "horario": "35M34"
+  },
+  {
+    "id": 294,
+    "nome": "INTERAÇÃO HUMANO COMPUTADOR",
+    "codigo": "FGA0173",
+    "pre_requisitos": "FGA0138",
+    "professor": "SERGIO ANTONIO ANDRADE DE FREITAS",
+    "horario": "24M34"
+  },
+  {
+    "id": 295,
+    "nome": "INTERAÇÃO HUMANO COMPUTADOR",
+    "codigo": "FGA0173",
+    "pre_requisitos": "FGA0138",
+    "professor": "ANDRE BARROS DE SALES",
+    "horario": "35M12"
+  },
+  {
+    "id": 304,
+    "nome": "GESTÃO DA PRODUÇÃO E QUALIDADE",
+    "codigo": "FGA0184",
+    "pre_requisitos": "FGA0133",
+    "professor": "REJANE MARIA DA COSTA FIGUEIREDO",
+    "horario": "35T23"
+  },
+  {
+    "id": 305,
+    "nome": "GESTÃO DA PRODUÇÃO E QUALIDADE",
+    "codigo": "FGA0184",
+    "pre_requisitos": "FGA0133",
+    "professor": "MARIO DE OLIVEIRA ANDRADE",
+    "horario": "35T45"
+  },
+  {
+    "id": 330,
+    "nome": "ENGENHARIA DE PRODUTO DE SOFTWARE",
+    "codigo": "FGA0206",
+    "pre_requisitos": "FGA0242  OU  FGA0171",
+    "professor": "HILMER RODRIGUES NERI",
+    "horario": "35T23"
+  },
+  {
+    "id": 332,
+    "nome": "ARQUITETURA E DESENHO DE SOFTWARE",
+    "codigo": "FGA0208",
+    "pre_requisitos": "FGA0172",
+    "professor": "MILENE SERRANO",
+    "horario": "26M12"
+  },
+  {
+    "id": 334,
+    "nome": "PARADIGMAS DE PROGRAMAÇÃO",
+    "codigo": "FGA0210",
+    "pre_requisitos": "FGA0158 E FGA0003",
+    "professor": "MILENE SERRANO",
+    "horario": "26M34"
+  },
+  {
+    "id": 336,
+    "nome": "FUNDAMENTOS DE REDES DE COMPUTADORES",
+    "codigo": "FGA0211",
+    "pre_requisitos": "FGA0170",
+    "professor": "FERNANDO WILLIAM CRUZ",
+    "horario": "24T45"
+  },
+  {
+    "id": 361,
+    "nome": "TESTES DE SOFTWARE",
+    "codigo": "FGA0238",
+    "pre_requisitos": "FGA0138",
+    "professor": "ELAINE VENSON",
+    "horario": "24T45"
+  },
+  {
+    "id": 362,
+    "nome": "TESTES DE SOFTWARE",
+    "codigo": "FGA0238",
+    "pre_requisitos": "FGA0138",
+    "professor": "ELAINE VENSON",
+    "horario": "24T23"
+  },
+  {
+    "id": 364,
+    "nome": "GERÊNCIA DE CONFIGURAÇÃO E EVOLUÇÃO DE SOFTWARE",
+    "codigo": "FGA0240",
+    "pre_requisitos": "FGA0238",
+    "professor": "CARLA SILVA ROCHA AGUIAR",
+    "horario": "35T45"
+  },
+  {
+    "id": 365,
+    "nome": "GERÊNCIA DE CONFIGURAÇÃO E EVOLUÇÃO DE SOFTWARE",
+    "codigo": "FGA0240",
+    "pre_requisitos": "FGA0238",
+    "professor": "RENATO CORAL SAMPAIO",
+    "horario": "35T45"
+  },
+  {
+    "id": 367,
+    "nome": "TÉCNICAS DE PROGRAMAÇÃO EM PLATAFORMAS EMERGENTES",
+    "codigo": "FGA0242",
+    "pre_requisitos": "FGA0208 E FGA0238",
+    "professor": "ANDRE LUIZ PERON MARTINS LANNA",
+    "horario": "24T45"
+  },
+  {
+    "id": 368,
+    "nome": "TÉCNICAS DE PROGRAMAÇÃO EM PLATAFORMAS EMERGENTES",
+    "codigo": "FGA0242",
+    "pre_requisitos": "FGA0208 E FGA0238",
+    "professor": "ANDRE LUIZ PERON MARTINS LANNA",
+    "horario": "24M5 24T1"
+  },
+  {
+    "id": 370,
+    "nome": "PROGRAMAÇÃO PARA SISTEMAS PARALELOS E DISTRIBUÍDOS",
+    "codigo": "FGA0244",
+    "pre_requisitos": "FGA0211 E FGA0030",
+    "professor": "FERNANDO WILLIAM CRUZ",
+    "horario": "24T23"
+  },
+  {
+    "id": 407,
+    "nome": "QUALIDADE DE SOFTWARE 1",
+    "codigo": "FGA0278",
+    "pre_requisitos": "FGA0184 E FGA0173",
+    "professor": "RICARDO AJAX DIAS KOSLOSKI",
+    "horario": "35T6 35N1"
+  },
+  {
+    "id": 408,
+    "nome": "QUALIDADE DE SOFTWARE 1",
+    "codigo": "FGA0278",
+    "pre_requisitos": "FGA0184 E FGA0173",
+    "professor": "CRISTIANE SOARES RAMOS",
+    "horario": "35M34"
+  }
+]
