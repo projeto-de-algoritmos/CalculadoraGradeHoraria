@@ -73,7 +73,12 @@
     "codigo": "FGA0060",
     "pre_requisitos": "FGA0137",
     "professor": "GIOVANNI ALMEIDA SANTOS",
-    "horarios": {}
+    "horarios": {
+      "Sabado": {
+        "start-time": "2023-01-21 08:00:00 -0300",
+        "end-time": "2023-01-21 11:50:00 -0300"
+      }
+    }
   },
   {
     "id": 80,
@@ -569,7 +574,12 @@
     "codigo": "FGA0158",
     "pre_requisitos": "CIC0004  OU  CIC0007",
     "professor": "ELAINE VENSON",
-    "horarios": {}
+    "horarios": {
+      "Sabado": {
+        "start-time": "2023-01-21 08:00:00 -0300",
+        "end-time": "2023-01-21 11:50:00 -0300"
+      }
+    }
   },
   {
     "id": 256,
@@ -577,7 +587,12 @@
     "codigo": "FGA0158",
     "pre_requisitos": "CIC0004  OU  CIC0007",
     "professor": "REJANE MARIA DA COSTA FIGUEIREDO",
-    "horarios": {}
+    "horarios": {
+      "Sabado": {
+        "start-time": "2023-01-21 08:00:00 -0300",
+        "end-time": "2023-01-21 11:50:00 -0300"
+      }
+    }
   },
   {
     "id": 258,
