@@ -1,0 +1,13 @@
+button {
+    background-color: #957ce0;
+    color: whitesmoke;
+    border: none;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+html {
+    background-color: #28282B;
+    color: whitesmoke;
+}
