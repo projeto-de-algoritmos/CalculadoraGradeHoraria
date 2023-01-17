@@ -38,7 +38,11 @@ const horarios_por_aula = {
   Sabado: {},
 };
 
-export const greedySchedule = () => {
+export const greedySchedule = (selectedClasses) => {
+  for (var classes of selectedClasses){
+    materiasRealizadas.push(classes.value)
+  }
+
   const sortedData = sortByDate();
 
   sortedData.forEach((data) => {
@@ -64,6 +68,4 @@ export const greedySchedule = () => {
       }
     }
   });
-
-  console.log(horarios_por_aula);
 };
