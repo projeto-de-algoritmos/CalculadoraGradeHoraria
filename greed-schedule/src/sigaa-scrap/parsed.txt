@@ -4,8 +4,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta http-equiv="Pragma" content="no-cache">
 	<title>SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas</title>
-	<link class="component" href="/sigaa/a4j/s/3_3_3.Finalorg/richfaces/renderkit/html/css/basic_classes.xcss/DATB/eAF7sqpgb-jyGdIAFrMEaw__.jsf;jsessionid=1CF1ED9AFEF9740D17FCF5BE7B4627BF.sigaa36" rel="stylesheet" type="text/css">
-<link class="component" href="/sigaa/a4j/s/3_3_3.Finalorg/richfaces/renderkit/html/css/extended_classes.xcss/DATB/eAF7sqpgb-jyGdIAFrMEaw__.jsf;jsessionid=1CF1ED9AFEF9740D17FCF5BE7B4627BF.sigaa36" rel="stylesheet" type="text/css">
+	<link class="component" href="/sigaa/a4j/s/3_3_3.Finalorg/richfaces/renderkit/html/css/basic_classes.xcss/DATB/eAF7sqpgb-jyGdIAFrMEaw__.jsf;jsessionid=35E1A0067F90338E95DB2F454315820F.sigaa09" rel="stylesheet" type="text/css">
+<link class="component" href="/sigaa/a4j/s/3_3_3.Finalorg/richfaces/renderkit/html/css/extended_classes.xcss/DATB/eAF7sqpgb-jyGdIAFrMEaw__.jsf;jsessionid=35E1A0067F90338E95DB2F454315820F.sigaa09" rel="stylesheet" type="text/css">
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.RICH_FACES_EXTENDED_SKINNING_ON=true;</script><script src="/sigaa/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/skinning.js.jsf" type="text/javascript"></script><link rel="shortcut icon" href="/sigaa/img/sigaa.ico">
 	
 	<script type="text/javascript" src="/shared/jsBundles/jawr_loader.js"></script>
@@ -97,7 +97,7 @@
 	os critérios desejados.</p>
 	</div>
 		
-<form id="formTurma" name="formTurma" method="post" action="/sigaa/public/turmas/listar.jsf;jsessionid=1CF1ED9AFEF9740D17FCF5BE7B4627BF.sigaa36" enctype="application/x-www-form-urlencoded">
+<form id="formTurma" name="formTurma" method="post" action="/sigaa/public/turmas/listar.jsf;jsessionid=35E1A0067F90338E95DB2F454315820F.sigaa09" enctype="application/x-www-form-urlencoded">
 <input type="hidden" name="formTurma" value="formTurma">
 
 				<table class="formulario" width="80%">
@@ -359,7 +359,7 @@
 </form>		
 		<br clear="all">
 	<center>
-	  <img src="/sigaa/img/required.gif;jsessionid=1CF1ED9AFEF9740D17FCF5BE7B4627BF.sigaa36" style="vertical-align: top;"> <span class="fontePequena"> Campos de preenchimento obrigatório. </span>
+	  <img src="/sigaa/img/required.gif;jsessionid=35E1A0067F90338E95DB2F454315820F.sigaa09" style="vertical-align: top;"> <span class="fontePequena"> Campos de preenchimento obrigatório. </span>
 	</center>
 	<br>
 	<div style="width: 80%; text-align: center; margin: 0 auto;">
@@ -373,7 +373,7 @@
 
 	<div id="rodape">
 		<p>	
-			SIGAA | Secretaria de Tecnologia da Informação - STI - (61)  3107-0102 | Copyright © 2006-2023 - UFRN - app42_Prod.sigaa36
+			SIGAA | Secretaria de Tecnologia da Informação - STI - (61)  3107-0102 | Copyright © 2006-2023 - UFRN - app15_Prod.sigaa09
 			 
 				<a onclick="javascript:versao();">v4.2.9.84</a>
 			
