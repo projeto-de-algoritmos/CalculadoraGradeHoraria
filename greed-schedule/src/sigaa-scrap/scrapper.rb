@@ -80,7 +80,7 @@ class Scrapper
     browser.close
 
     materias_eng_software = ["Probabilidade e Estatística Aplicado a Engenharia", "Métodos Numéricos para Engenharia", "Engenharia Econômica", 
-        "Humanidades e Cidadania", "Teoria de Eletrônica Digital 1", "Prática de Eletrônica Digital 1", "Orientação a Objetos", 
+        "Humanidades e Cidadania", "Teoria de Eletrônica Digital 1", "Prática de Eletrônica Digital 1", "Orientação a Objetos", "Matemática Discreta 1",
         "Gestão da Produção e Qualidade", "Métodos de Desenvolvimento de Software","Estruturas de Dados e Algoritmos", "Fundamentos de Arquitetura de Computadores",
         "Matemática Discreta 2", "Interação Humano Computador", "Requisitos de Software", "Sistemas de Banco de Dados 1", "Fundamentos de Sistemas Operacionais", 
         "Compiladores 1", "Estruturas de Dados 2", "Qualidade de Software 1", "Testes de Software", "Arquitetura e Desenho de Software", 
