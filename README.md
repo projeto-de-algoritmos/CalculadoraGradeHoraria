@@ -19,6 +19,9 @@ _Imagem 01: Tela inicial_
 ![image](https://user-images.githubusercontent.com/88190414/212800521-886aa51a-193a-432a-936d-abebd28c184b.png)
 _Imagem 02: Selecionando as matérias realizadas_
 
+![image](https://user-images.githubusercontent.com/88190414/212956802-fcb1c076-357b-4d3d-92e5-340f79b0ed4f.png)
+_Imagem 03: Tabela com as matérias (MDS selecionada como já feita)_
+
 ## Instalação 
 **Linguagem**: Javascript<br>
 **Framework**: React JS<br>
@@ -43,3 +46,7 @@ Rodar projeto
 ````
 npm start
 ````
+
+## Apresentação
+
+[Apresentação](./greed-schedule/src/assets/Apresentacao.mp4)

@@ -10,7 +10,6 @@ function App() {
 
   const createSchedule = () =>{
     setSchedule(greedySchedule(selectedClasses))
-    console.log(greedySchedule(selectedClasses))
   }
   return (
     <div className="App">

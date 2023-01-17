@@ -34,7 +34,7 @@
     }
   },
   {
-    "id": 56,
+    "id": 55,
     "nome": "SISTEMAS DE BANCO DE DADOS 2",
     "codigo": "FGA0060",
     "pre_requisitos": "FGA0137",
@@ -51,7 +51,7 @@
     }
   },
   {
-    "id": 57,
+    "id": 56,
     "nome": "SISTEMAS DE BANCO DE DADOS 2",
     "codigo": "FGA0060",
     "pre_requisitos": "FGA0137",
@@ -68,7 +68,7 @@
     }
   },
   {
-    "id": 58,
+    "id": 57,
     "nome": "SISTEMAS DE BANCO DE DADOS 2",
     "codigo": "FGA0060",
     "pre_requisitos": "FGA0137",
@@ -81,7 +81,7 @@
     }
   },
   {
-    "id": 80,
+    "id": 79,
     "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
@@ -94,7 +94,7 @@
     }
   },
   {
-    "id": 81,
+    "id": 80,
     "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
@@ -107,7 +107,7 @@
     }
   },
   {
-    "id": 82,
+    "id": 81,
     "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
@@ -120,7 +120,7 @@
     }
   },
   {
-    "id": 83,
+    "id": 82,
     "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
@@ -133,7 +133,7 @@
     }
   },
   {
-    "id": 84,
+    "id": 83,
     "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
@@ -142,6 +142,19 @@
       "Sexta": {
         "start-time": "2023-01-20 14:00:00 -0300",
         "end-time": "2023-01-20 15:50:00 -0300"
+      }
+    }
+  },
+  {
+    "id": 84,
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "codigo": "FGA0071",
+    "pre_requisitos": "MAT0031",
+    "professor": "HENRIQUE MARRA TAIRA MENEGAZ",
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 08:00:00 -0300",
+        "end-time": "2023-01-17 09:50:00 -0300"
       }
     }
   },
@@ -163,19 +176,6 @@
     "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
-    "professor": "HENRIQUE MARRA TAIRA MENEGAZ",
-    "horarios": {
-      "Terça": {
-        "start-time": "2023-01-17 08:00:00 -0300",
-        "end-time": "2023-01-17 09:50:00 -0300"
-      }
-    }
-  },
-  {
-    "id": 87,
-    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
-    "codigo": "FGA0071",
-    "pre_requisitos": "MAT0031",
     "professor": "DIOGO DE OLIVEIRA COSTA",
     "horarios": {
       "Quinta": {
@@ -185,7 +185,7 @@
     }
   },
   {
-    "id": 88,
+    "id": 87,
     "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
@@ -194,6 +194,19 @@
       "Sexta": {
         "start-time": "2023-01-20 08:00:00 -0300",
         "end-time": "2023-01-20 09:50:00 -0300"
+      }
+    }
+  },
+  {
+    "id": 88,
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "codigo": "FGA0071",
+    "pre_requisitos": "MAT0031",
+    "professor": "HENRIQUE MARRA TAIRA MENEGAZ",
+    "horarios": {
+      "Segunda": {
+        "start-time": "2023-01-16 08:00:00 -0300",
+        "end-time": "2023-01-16 09:50:00 -0300"
       }
     }
   },
@@ -215,19 +228,6 @@
     "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
-    "professor": "HENRIQUE MARRA TAIRA MENEGAZ",
-    "horarios": {
-      "Segunda": {
-        "start-time": "2023-01-16 08:00:00 -0300",
-        "end-time": "2023-01-16 09:50:00 -0300"
-      }
-    }
-  },
-  {
-    "id": 91,
-    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
-    "codigo": "FGA0071",
-    "pre_requisitos": "MAT0031",
     "professor": "DIOGO DE OLIVEIRA COSTA",
     "horarios": {
       "Sexta": {
@@ -237,7 +237,7 @@
     }
   },
   {
-    "id": 92,
+    "id": 91,
     "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
@@ -250,7 +250,7 @@
     }
   },
   {
-    "id": 93,
+    "id": 92,
     "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
     "codigo": "FGA0071",
     "pre_requisitos": "MAT0031",
@@ -263,7 +263,7 @@
     }
   },
   {
-    "id": 98,
+    "id": 97,
     "nome": "TEORIA DE ELETRÔNICA DIGITAL 1",
     "codigo": "FGA0073",
     "pre_requisitos": "MAT0031",
@@ -280,7 +280,7 @@
     }
   },
   {
-    "id": 99,
+    "id": 98,
     "nome": "TEORIA DE ELETRÔNICA DIGITAL 1",
     "codigo": "FGA0073",
     "pre_requisitos": "MAT0031",
@@ -297,7 +297,7 @@
     }
   },
   {
-    "id": 121,
+    "id": 123,
     "nome": "MATEMÁTICA DISCRETA 1",
     "codigo": "FGA0085",
     "pre_requisitos": "-",
@@ -314,7 +314,7 @@
     }
   },
   {
-    "id": 122,
+    "id": 124,
     "nome": "MATEMÁTICA DISCRETA 1",
     "codigo": "FGA0085",
     "pre_requisitos": "-",
@@ -331,7 +331,7 @@
     }
   },
   {
-    "id": 177,
+    "id": 179,
     "nome": "MATEMÁTICA DISCRETA 2",
     "codigo": "FGA0108",
     "pre_requisitos": "FGA0085  OU  FGA0159",
@@ -348,7 +348,7 @@
     }
   },
   {
-    "id": 179,
+    "id": 181,
     "nome": "FUNDAMENTOS DE SISTEMAS EMBARCADOS",
     "codigo": "FGA0109",
     "pre_requisitos": "FGA0170",
@@ -365,7 +365,7 @@
     }
   },
   {
-    "id": 180,
+    "id": 182,
     "nome": "FUNDAMENTOS DE SISTEMAS EMBARCADOS",
     "codigo": "FGA0109",
     "pre_requisitos": "FGA0170",
@@ -382,7 +382,7 @@
     }
   },
   {
-    "id": 197,
+    "id": 199,
     "nome": "PROJETO DE ALGORITMOS",
     "codigo": "FGA0124",
     "pre_requisitos": "FGA0147",
@@ -569,7 +569,75 @@
     }
   },
   {
-    "id": 248,
+    "id": 224,
+    "nome": "ESTRUTURA DE DADOS E ALGORITMOS",
+    "codigo": "FGA0147",
+    "pre_requisitos": "CIC0004",
+    "professor": "NILTON CORREIA DA SILVA",
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 08:00:00 -0300",
+        "end-time": "2023-01-17 09:50:00 -0300"
+      },
+      "Quinta": {
+        "start-time": "2023-01-19 08:00:00 -0300",
+        "end-time": "2023-01-19 09:50:00 -0300"
+      }
+    }
+  },
+  {
+    "id": 225,
+    "nome": "ESTRUTURA DE DADOS E ALGORITMOS",
+    "codigo": "FGA0147",
+    "pre_requisitos": "CIC0004",
+    "professor": "BRUNO CESAR RIBAS",
+    "horarios": {
+      "Terça": {
+        "start-time": "2023-01-17 14:00:00 -0300",
+        "end-time": "2023-01-17 15:50:00 -0300"
+      },
+      "Quinta": {
+        "start-time": "2023-01-19 14:00:00 -0300",
+        "end-time": "2023-01-19 15:50:00 -0300"
+      }
+    }
+  },
+  {
+    "id": 226,
+    "nome": "ESTRUTURA DE DADOS E ALGORITMOS",
+    "codigo": "FGA0147",
+    "pre_requisitos": "CIC0004",
+    "professor": "NILTON CORREIA DA SILVA",
+    "horarios": {
+      "Quinta": {
+        "start-time": "2023-01-19 12:00:00 -0300",
+        "end-time": "2023-01-19 13:50:00 -0300"
+      },
+      "Segunda": {
+        "start-time": "2023-01-16 18:00:00 -0300",
+        "end-time": "2023-01-16 19:50:00 -0300"
+      }
+    }
+  },
+  {
+    "id": 227,
+    "nome": "ESTRUTURA DE DADOS E ALGORITMOS",
+    "codigo": "FGA0147",
+    "pre_requisitos": "CIC0004",
+    "professor": "FABRICIO ATAIDES BRAZ",
+    "horarios": {
+      "Quinta": {
+        "start-time": "2023-01-19 12:00:00 -0300",
+        "end-time": "2023-01-19 13:50:00 -0300"
+      },
+      "Segunda": {
+        "start-time": "2023-01-16 18:00:00 -0300",
+        "end-time": "2023-01-16 19:50:00 -0300"
+      }
+    }
+  },
+  {
+    "id": 249,
     "nome": "PROBABILIDADE E ESTATÍSTICA APLICADO A ENGENHARIA",
     "codigo": "FGA0157",
     "pre_requisitos": "MAT0025",
@@ -586,7 +654,7 @@
     }
   },
   {
-    "id": 249,
+    "id": 250,
     "nome": "PROBABILIDADE E ESTATÍSTICA APLICADO A ENGENHARIA",
     "codigo": "FGA0157",
     "pre_requisitos": "MAT0025",
@@ -603,7 +671,7 @@
     }
   },
   {
-    "id": 251,
+    "id": 252,
     "nome": "ORIENTAÇÃO A OBJETOS",
     "codigo": "FGA0158",
     "pre_requisitos": "CIC0004  OU  CIC0007",
@@ -620,7 +688,7 @@
     }
   },
   {
-    "id": 252,
+    "id": 253,
     "nome": "ORIENTAÇÃO A OBJETOS",
     "codigo": "FGA0158",
     "pre_requisitos": "CIC0004  OU  CIC0007",
@@ -637,7 +705,7 @@
     }
   },
   {
-    "id": 253,
+    "id": 254,
     "nome": "ORIENTAÇÃO A OBJETOS",
     "codigo": "FGA0158",
     "pre_requisitos": "CIC0004  OU  CIC0007",
@@ -654,7 +722,7 @@
     }
   },
   {
-    "id": 254,
+    "id": 255,
     "nome": "ORIENTAÇÃO A OBJETOS",
     "codigo": "FGA0158",
     "pre_requisitos": "CIC0004  OU  CIC0007",
@@ -671,7 +739,7 @@
     }
   },
   {
-    "id": 255,
+    "id": 256,
     "nome": "ORIENTAÇÃO A OBJETOS",
     "codigo": "FGA0158",
     "pre_requisitos": "CIC0004  OU  CIC0007",
@@ -684,7 +752,7 @@
     }
   },
   {
-    "id": 256,
+    "id": 257,
     "nome": "ORIENTAÇÃO A OBJETOS",
     "codigo": "FGA0158",
     "pre_requisitos": "CIC0004  OU  CIC0007",
@@ -697,7 +765,7 @@
     }
   },
   {
-    "id": 258,
+    "id": 259,
     "nome": "MÉTODOS NUMÉRICOS PARA ENGENHARIA",
     "codigo": "FGA0160",
     "pre_requisitos": "MAT0026",
@@ -714,7 +782,7 @@
     }
   },
   {
-    "id": 259,
+    "id": 260,
     "nome": "MÉTODOS NUMÉRICOS PARA ENGENHARIA",
     "codigo": "FGA0160",
     "pre_requisitos": "MAT0026",
@@ -731,7 +799,7 @@
     }
   },
   {
-    "id": 260,
+    "id": 261,
     "nome": "MÉTODOS NUMÉRICOS PARA ENGENHARIA",
     "codigo": "FGA0160",
     "pre_requisitos": "MAT0026",
@@ -748,7 +816,7 @@
     }
   },
   {
-    "id": 270,
+    "id": 271,
     "nome": "HUMANIDADES E CIDADANIA",
     "codigo": "FGA0164",
     "pre_requisitos": "-",
@@ -765,7 +833,7 @@
     }
   },
   {
-    "id": 271,
+    "id": 272,
     "nome": "HUMANIDADES E CIDADANIA",
     "codigo": "FGA0164",
     "pre_requisitos": "-",
@@ -782,7 +850,7 @@
     }
   },
   {
-    "id": 272,
+    "id": 273,
     "nome": "HUMANIDADES E CIDADANIA",
     "codigo": "FGA0164",
     "pre_requisitos": "-",
@@ -799,7 +867,7 @@
     }
   },
   {
-    "id": 273,
+    "id": 274,
     "nome": "HUMANIDADES E CIDADANIA",
     "codigo": "FGA0164",
     "pre_requisitos": "-",
@@ -816,7 +884,7 @@
     }
   },
   {
-    "id": 274,
+    "id": 275,
     "nome": "HUMANIDADES E CIDADANIA",
     "codigo": "FGA0164",
     "pre_requisitos": "-",
@@ -952,7 +1020,7 @@
     }
   },
   {
-    "id": 330,
+    "id": 331,
     "nome": "ENGENHARIA DE PRODUTO DE SOFTWARE",
     "codigo": "FGA0206",
     "pre_requisitos": "FGA0242  OU  FGA0171",
@@ -969,7 +1037,7 @@
     }
   },
   {
-    "id": 332,
+    "id": 333,
     "nome": "ARQUITETURA E DESENHO DE SOFTWARE",
     "codigo": "FGA0208",
     "pre_requisitos": "FGA0172",
@@ -986,7 +1054,7 @@
     }
   },
   {
-    "id": 334,
+    "id": 335,
     "nome": "PARADIGMAS DE PROGRAMAÇÃO",
     "codigo": "FGA0210",
     "pre_requisitos": "FGA0158 E FGA0003",
@@ -1003,7 +1071,7 @@
     }
   },
   {
-    "id": 336,
+    "id": 337,
     "nome": "FUNDAMENTOS DE REDES DE COMPUTADORES",
     "codigo": "FGA0211",
     "pre_requisitos": "FGA0170",
@@ -1139,7 +1207,7 @@
     }
   },
   {
-    "id": 407,
+    "id": 405,
     "nome": "QUALIDADE DE SOFTWARE 1",
     "codigo": "FGA0278",
     "pre_requisitos": "FGA0184 E FGA0173",
@@ -1156,7 +1224,7 @@
     }
   },
   {
-    "id": 408,
+    "id": 406,
     "nome": "QUALIDADE DE SOFTWARE 1",
     "codigo": "FGA0278",
     "pre_requisitos": "FGA0184 E FGA0173",
