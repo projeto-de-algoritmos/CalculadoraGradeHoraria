@@ -6,12 +6,18 @@ import { greedySchedule } from "./utils/greedySchedule";
 
 function App() {
   const [selectedClasses, setSelectedClasses] = useState([])
+  const [schedule, setSchedule] = useState()
+
+  const createSchedule = () =>{
+    setSchedule(greedySchedule(selectedClasses))
+    console.log(greedySchedule(selectedClasses))
+  }
   return (
     <div className="App">
       <h2>Selecione as matérias que já cursou</h2>
       <ClassesSelector onChange={(state) => setSelectedClasses(state)}/>
-      <button onClick={() => greedySchedule(selectedClasses)}>Monte a minha grade</button>
-      <SemesterConatiner title={"1º semestre"}/>
+      <button onClick={createSchedule}>Monte a minha grade</button>
+      <SemesterConatiner schedule={schedule}/>
     </div>
   );
 }

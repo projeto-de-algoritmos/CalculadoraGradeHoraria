@@ -1,13 +1,21 @@
 import "./SemesterContainer.css";
 
-const SemesterConatiner = ({title}) => {
-    return(
-        <div>
-            <h3>{title}</h3>
-            <h4>Matérias</h4>
-            <p>Nome, código e horário</p>
-        </div>
-    );
+const SemesterContainer = ({ schedule }) => {
+  return (
+    schedule && (
+      <div className="classes">
+        <h3>Matérias selecionadas</h3>
+        {Object.keys(schedule).map((key, index) => {
+          return (
+            <div key={index}>
+              <p>{key}:</p>
+            </div>
+          );
+        })}
+        {console.log(Object.values(schedule)[0])}
+      </div>
+    )
+  );
 };
 
-export default SemesterConatiner;
+export default SemesterContainer;

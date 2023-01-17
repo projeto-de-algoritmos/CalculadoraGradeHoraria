@@ -1,4 +1,7 @@
-div {
-    margin: 20px;
-    display: inline-block;
+.classes{
+    margin-top: 12rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
