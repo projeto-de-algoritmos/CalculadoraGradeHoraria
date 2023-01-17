@@ -50,16 +50,17 @@ export const greedySchedule = (selectedClasses) => {
       let hasAvaliableClasses = true;
 
       for (var keys in data.horarios) {
-        const start_time = data.horarios[keys]["start-time"];
-        if (Object.hasOwn(horarios_por_aula[keys], start_time)) {
+        const start_time = data.horarios[keys]["start-time"].match(/(\d\d:\d\d)/);
+
+        if (Object.hasOwn(horarios_por_aula[keys], start_time[0])) {
           hasAvaliableClasses = false;
           break;
         }
       }
       if (hasAvaliableClasses) {
         for (var keys1 in data.horarios) {
-          const start_time = data.horarios[keys]["start-time"];
-          horarios_por_aula[keys1][start_time] = {
+          const start_time = data.horarios[keys]["start-time"].match(/(\d\d:\d\d)/);
+          horarios_por_aula[keys1][start_time[0]] = {
             nome: data.nome,
             professor: data.professor,
           };
@@ -68,4 +69,6 @@ export const greedySchedule = (selectedClasses) => {
       }
     }
   });
+  
+  return horarios_por_aula
 };
