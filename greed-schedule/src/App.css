@@ -1,13 +1,31 @@
-button {
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.App{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+    width: 95vw;
+}
+
+.App button {
     background-color: #957ce0;
     color: whitesmoke;
     border: none;
-    padding: 10px;
     font-weight: bold;
-    border-radius: 8px;
+    border-radius: 16px;
+    cursor: pointer;
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    transition: all ease 2ms;
 }
 
+.App button:hover{
+    background-color: #8a73cf;
+}
 html {
     background-color: #28282B;
     color: whitesmoke;
+    padding: 2rem;
+    font-family: 'Roboto', sans-serif;
 }
